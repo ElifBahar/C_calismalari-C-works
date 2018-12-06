@@ -8,8 +8,7 @@
 int main(){
 	
 	int vize, final, toplam, almali;	/*değişkenlerimizi belirledik*/
-	float ort;		/*ortalama için float kullanıyoruz, tamsayı çıkmayabilir*/
-	
+		
 	printf("Lutfen vize notunuzu giriniz: ");
 	scanf("%d", &vize);		/*kullanıcıdan vize notunu aldık*/
 	
